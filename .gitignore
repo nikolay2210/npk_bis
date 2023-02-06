@@ -1,1 +1,3 @@
 *.log
+/zbx_env/*
+/data/*
